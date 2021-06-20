@@ -12,7 +12,7 @@ This repository is for advanced use of `typescript`, contains the following topi
 
 To setup this project just do:
 
-- Clone the repository in:
+- Clone the repository
 - Install dependencies:
   - `yarn` (preference) or `npm i`
 
