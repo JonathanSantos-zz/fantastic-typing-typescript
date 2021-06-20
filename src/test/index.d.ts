@@ -4,7 +4,7 @@ export declare module GetProps {
     isTest: boolean;
   };
 
-  export type getProps = <T extends TestType>(testType: T) => T['props'];
+  export type getProps = <T extends Test>(testType: T) => T['props'];
   export type objectTest = {
     child: string[];
     parent: boolean;

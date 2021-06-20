@@ -1,7 +1,5 @@
 # Typescript 🚀
 
----
-
 ## Advanced cases of typescript
 
 This repository is for advanced use of `typescript`, contains the following topics:
